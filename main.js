@@ -340,7 +340,3 @@ function validarFormulario() {
   return false;
 }
 // Fim da função para validar o formulário
-
-
-
-
